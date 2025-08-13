@@ -1,2 +1,2 @@
 # apnaCollegeDemo
-This is My first Git Repostory
+This is My first Git Repository
